@@ -29,8 +29,3 @@ Bootstrap
 Tailwind
 
 Font Awesome 
-
-## 📌 Future Add-ons (Optional)
-Add music playback using Howler.js or <audio> tag
-
-Add backend for storing user data or music info
