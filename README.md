@@ -1,12 +1,73 @@
-# React + Vite
+BeatMint
+BeatMint is a fully frontend-only, responsive music-themed website that showcases a modern UI for a music streaming service. This is a design-focused project with no actual music playback — perfect for portfolio, UI practice, or frontend learning.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 Live Demo
+🔗 View Live <!-- Replace with your live site link -->
 
-Currently, two official plugins are available:
+🎨 Features
+🎧 Clean, modern music app layout
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📱 Fully responsive design (mobile, tablet, desktop)
 
-## Expanding the ESLint configuration
+🖼️ Homepage with featured tracks, playlists, or artists (dummy content)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔍 Search bar UI
+
+🎵 Custom-designed music player UI (no functionality)
+
+📚 Artist and album sections with placeholder images/text
+
+💻 Built with semantic HTML, modular CSS, and clean JavaScript
+
+🛠️ Tech Stack
+HTML5
+
+CSS3
+
+JavaScript
+
+Bootstrap (optional)
+
+Google Fonts, Font Awesome (for icons)
+
+📁 Folder Structure
+bash
+Copy
+Edit
+beatmint/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/        # Artist/album thumbnails
+│   └── icons/         # Play, pause, etc. icons (static)
+└── README.md
+📸 Screenshots
+Include UI screenshots of homepage, player section, and mobile view here
+
+🚀 How to Use Locally
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/beatmint.git
+cd beatmint
+open index.html
+Or right-click and open in your browser.
+
+📝 Notes
+This is a UI-only static project – music buttons and players are non-functional
+
+Ideal for frontend portfolios or layout inspiration
+
+Feel free to extend it with real audio functionality later!
+
+📌 Future Add-ons (Optional)
+Add music playback using Howler.js or <audio> tag
+
+Add backend for storing user data or music info
+
+Add animations or theme toggle
+
+👩‍💻 Author
+Your Name
+GitHub: @yourusername
